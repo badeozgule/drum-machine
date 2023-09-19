@@ -172,9 +172,9 @@ export class App extends React.Component {
       isSystemOn: item
     }, () => {
       this.state.isSystemOn === "false" ? 
-        document.getElementById("drum-machine").classList.add("disabled")
+        document.getElementById("root").classList.add("disabled")
       :
-        document.getElementById("drum-machine").classList.remove("disabled")
+        document.getElementById("root").classList.remove("disabled")
     });
   }
 
