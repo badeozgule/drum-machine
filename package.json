@@ -16,7 +16,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build", // To deploy the project to your homepage, simply run `npm run deploy`. This command also creates the `gh-pages` branch and pushes the latest changes to that branch. If you still can't see the project on your homepage, go to the repository settings and select the `gh-pages` branch and `/root` as folder in the "Pages" section.
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "build:scss": "sass ./src/styles/main.scss ./src/styles/main.css"
