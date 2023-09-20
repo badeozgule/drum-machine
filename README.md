@@ -111,7 +111,7 @@ You can explore the original CodePen version by following this link:
 
 
 ## About the Author
-This project was developed by [Bade Ozgule](https://github.com/badeozgule). You can find more of my work and contact me through my [portfolio](https://badeozgule.github.io).
+This project was designed and developed by [Bade Ozgule](https://github.com/badeozgule). You can find more of my work and contact me through my [portfolio](https://badeozgule.github.io).
   
 ## Contributions
 Feel free to fork this project, make improvements, and customize it to your liking. I encourage you to add your unique code and design enhancements to make it your own.
